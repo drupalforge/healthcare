@@ -1,0 +1,10 @@
+{
+    "patches": {
+        "drupal/drupal_cms_ai": {
+            "#3590725 Unable to apply ai recipe": "https://git.drupalcode.org/issue/healthcare-3590725/-/raw/192516d5d8cd885bd01dcb975883f916469441a8/patches/remove-ai-privacy-basic-dependency.patch"
+        },
+        "drupal/easy_encryption": {
+            "#3589914: Remove global _custom_access registration from Easy Encryption admin access checker": "https://git.drupalcode.org/issue/easy_encryption-3589914/-/commit/50df69038f97da463ddc261a17e69f2b3d21c4f3.patch"
+        }
+    }
+}
