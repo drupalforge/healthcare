@@ -4,7 +4,7 @@
             "#3531174: Add configuration for additional known files in project root": "https://git.drupalcode.org/issue/drupal-3531174/-/compare/eccc454363a947d3eb71a1ca7fa0e134dce002c0...96208fc1e12b4548c115d02dd80b9cfbd4e5bed7?format=diff"
         },
         "drupal/healthcare": {
-            "#3611916: Canvas no longer accepts JSON strings as inputs": "https://git.drupalcode.org/project/healthcare/-/commit/afda9757201007993987cab4f11872ba7191b551.patch"
+            "#3611916: Canvas inputs must be native mappings (local fix for 1.0.1)": "patches/healthcare-1.0.1-component-inputs.patch"
         }
     }
 }
